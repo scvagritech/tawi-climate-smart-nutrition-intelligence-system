@@ -1,4 +1,4 @@
-# Tawi Fresh Quality AI
+# Tawi Fresh Climate Smart Nutrition Intelligent System
 
 **Open-source, edge-deployable produce quality assessment for school feeding supply chains in climate-vulnerable regions.**
 
@@ -16,7 +16,7 @@ No scalable, data-driven system currently bridges climate exposure, produce qual
 
 ## What This Project Will Contain
 
-Tawi Fresh Quality AI is the open-source inference and assessment module extracted from Tawi Fresh's production platform. It provides:
+Tawi Fresh Climate Smart Nutrition Intelligent System is the open-source inference and assessment module extracted from Tawi Fresh's production platform. It provides:
 
 | Component | Description | Status |
 |-----------|-------------|--------|
